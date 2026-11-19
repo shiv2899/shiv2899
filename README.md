@@ -96,3 +96,5 @@ I'm always glad to connect with people interested in **AI/ML, space science, cli
 <!-- PR test 3 -->
 
 </div>
+
+<!-- PR test 4 - only VS Code -->
