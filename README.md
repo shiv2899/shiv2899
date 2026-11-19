@@ -23,7 +23,7 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> “First, solve the problem. Then, write the code.” — John Johnson
 
 ### 🔝 Featured Repositories
 
