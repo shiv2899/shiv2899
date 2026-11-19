@@ -10,7 +10,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shiv2899&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shiv28999&theme=dark&no-frame=false&no-bg=false&margin-w=4&column=7)
+[image](https://github-readme-stats.shion.dev/api?username=shiv28999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[image](https://streak-stats.demolab.com/?user=shiv28999&theme=dark&hide_border=false)<br/>
+[image](https://github-readme-stats.shion.dev/api/top-langs/?username=shiv28999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
