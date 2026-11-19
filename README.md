@@ -1,82 +1,24 @@
-<div align="center">
+# 💫 About Me:
+🚀 I'm currently working on<br>Building 5 ML Projects - CNN for Digit Recognition, RL Agent for CartPole, Explainable AI with SHAP for Breast Cancer, Autoencoder for Image Denoising & FastAPI Model Deployment<br><br>👯 I'm looking to collaborate on<br>AI / ML, Deep Learning & Open Source Projects, NASA Space Apps Challenge type hackathons<br><br>🤝 I'm looking to help with<br>Python, Machine Learning, GitHub & Kaggle Projects<br><br>🌱 I'm currently learning<br>Deep Learning, NLP, Generative AI & M.Tech in CSE (AI & ML)<br><br>💬 Ask me about<br>Python, ML, Deep Learning, CNN, Reinforcement Learning, GitHub & Kaggle<br><br>⚡ Fun fact<br>I started with zero ML knowledge, now building my own GPT from scratch.
 
-# 👋 Hi, I'm Shivankush Singh
 
-### I build machine-learning projects that explore Earth, space, and the signals hidden in data.
+# 💻 Tech Stack:
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shiv2899&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shiv2899&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shiv2899&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**M.Tech CSE (AI & ML) • Python Developer • Curious about NASA Data**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shiv2899&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![GitHub](https://img.shields.io/badge/GitHub-shiv2899-black?style=for-the-badge&logo=github)](https://github.com/shiv2899)
-[![Kaggle](https://img.shields.io/badge/Kaggle-shivankush2899-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/shivankush2899)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-> *"You do not rise to the level of your goals. You fall to the level of your systems."*
-> — **James Clear, *Atomic Habits***
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm pursuing **M.Tech in Computer Science, specializing in AI & ML (2025-27)**. I like taking real-world datasets, asking a focused question, and building a model that makes the answer easier to understand.
-
-I care about the same thing in every project — **start with a baseline, evaluate honestly, and explain what the result really means**, including limitations and what didn't work.
-
-**My projects span climate analysis, spacecraft telemetry, medical signals, game AI, and generative AI.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shiv2899&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=shiv2899&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔥 Featured Work
-
-| Project | What it does | Key Result |
-| :--- | :--- | :--- |
-| **[🚀 Spacecraft Anomaly Detection](https://github.com/shiv2899/spacecraft-anomaly-detection)** | LSTM anomaly detector on real NASA SMAP telemetry | **0.988 precision** vs 0.068 z-score baseline |
-| **[🧠 Tiny GPT from Scratch](https://github.com/shiv2899/tiny-gpt-from-scratch)** | Transformer GPT built from scratch, trained on Tiny Shakespeare | **Val loss 1.21** with **0.8M params** |
-| **[🌲 Deforestation Detection](https://github.com/shiv2899/deforestation-detection-sentinel2-unet)** | Deforestation mapping with Sentinel-2 imagery + U-Net segmentation | Interactive map visualization |
-| **[❤️ Heartbeat Classifier](https://github.com/shiv2899/heartbeat-classifier)** | ECG classification with 1D-CNN on MIT-BIH Arrhythmia Dataset | **96.94% accuracy**, 5 classes |
-| **[🎮 Connect Four AI](https://github.com/shiv2899/connect-four-ai)** | Self-play + Monte Carlo Tree Search + Policy/Value Network | Improves by playing against itself |
-| **[🎨 Diffusion Image Generator](https://github.com/shiv2899/diffusion-image-generator)** | DDPM Diffusion - U-Net removes noise to generate new MNIST digits | Generates digits from pure noise |
-
----
-
-## 🧰 What I Work With
-
-**Languages:** Python
-
-**ML / Deep Learning:** PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas
-
-**Tools:** Jupyter • Google Colab • Git • GitHub • Kaggle
-
-**Exploring:** Machine Learning • Time-series Analysis • Deep Learning • Data Visualization • NASA Open Data
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shivankush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv2899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv2899&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv2899&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always glad to connect with people interested in **AI/ML, space science, climate data, and thoughtful experimentation.**
-
-- 💻 Browse my projects: [github.com/shiv2899](https://github.com/shiv2899)
-- 📊 Kaggle: [kaggle.com/shivankush2899](https://www.kaggle.com/shivankush2899)
-
----
-
-<div align="center">
-
-*Thanks for stopping by.*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
