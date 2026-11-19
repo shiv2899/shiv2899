@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shiv2899&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shiv2899&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=shiv28999&color=0e75b6&style=flat&label=Profile+views)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
