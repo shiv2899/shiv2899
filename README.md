@@ -16,10 +16,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Featured Repositories
-- [spacecraft-anomaly-detection](https://github.com/shiv2899/spacecraft-anomaly-detection) — NASA spacecraft telemetry anomaly detection.
-- [heartbeat-classifier](https://github.com/shiv2899/heartbeat-classifier) — ECG heartbeat classification using a 1D-CNN.
-- [tiny-gpt-from-scratch](https://github.com/shiv2899/tiny-gpt-from-scratch) — Transformer-based GPT built from scratch.
-- [connect-four-ai](https://github.com/shiv2899/connect-four-ai) — Connect Four AI using self-play and Monte Carlo Tree Search.
+
+| 🚀 Project | 🧠 Description |
+|:--|:--|
+| [spacecraft-anomaly-detection](https://github.com/shiv2899/spacecraft-anomaly-detection) | NASA spacecraft telemetry anomaly detection |
+| [heartbeat-classifier](https://github.com/shiv2899/heartbeat-classifier) | ECG heartbeat classification with 1D-CNN |
+| [tiny-gpt-from-scratch](https://github.com/shiv2899/tiny-gpt-from-scratch) | GPT built and trained from scratch |
+| [connect-four-ai](https://github.com/shiv2899/connect-four-ai) | AlphaZero-style Connect Four AI |
 
 ---
 ![](https://komarev.com/ghpvc/?username=shiv2899&color=0e75b6&style=flat&label=Profile+views)
