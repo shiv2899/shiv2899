@@ -10,15 +10,15 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shiv2899&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shiv2899&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shiv28999&theme=dark&no-frame=false&no-bg=false&margin-w=4&column=7)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shiv2899&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shiv28999&limit=5&theme=dark&combine_all_yearly_contributions=true&show_icons=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shiv2899&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=shiv28999&color=0e75b6&style=flat&label=Profile+views)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
