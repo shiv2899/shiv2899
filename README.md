@@ -6,10 +6,10 @@
 
 **M.Tech CSE (AI & ML) • Python Developer • Curious about NASA Data**
 
-![[GitHub](https://img.shields.io/badge/GitHub-shiv2899-black?style=for-the-badge&logo=github)](https://github.com/shiv2899)
-![[Kaggle](https://img.shields.io/badge/Kaggle-shivankush2899-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/shivankush2899)
-![[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-shiv2899-black?style=for-the-badge&logo=github)](https://github.com/shiv2899)
+[![Kaggle](https://img.shields.io/badge/Kaggle-shivankush2899-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/shivankush2899)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 </div>
 
