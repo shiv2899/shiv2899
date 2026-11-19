@@ -6,10 +6,10 @@
 
 **M.Tech CSE (AI & ML) • Python Developer • Curious about NASA Data**
 
-[[GitHub](https://img.shields.io/badge/GitHub-shiv2899-black?style=for-the-badge&logo=github)](https://github.com/shiv2899)
-[[Kaggle](https://img.shields.io/badge/Kaggle-shivankush2899-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/shivankush2899)
-[[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+![[GitHub](https://img.shields.io/badge/GitHub-shiv2899-black?style=for-the-badge&logo=github)](https://github.com/shiv2899)
+![[Kaggle](https://img.shields.io/badge/Kaggle-shivankush2899-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/shivankush2899)
+![[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 </div>
 
@@ -49,17 +49,17 @@ My projects span **climate analysis, spacecraft telemetry, exoplanet classificat
 
 ## 🧰 Current Toolkit
 
-[Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-[Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-[Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-[NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-[Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-[Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-[Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-[GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-[Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 **Exploring:** Machine Learning • Time-series Analysis • Deep Learning • Data Visualization • NASA Open Data
 
@@ -69,10 +69,10 @@ My projects span **climate analysis, spacecraft telemetry, exoplanet classificat
 
 <div align="center">
 
-[Shivankush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv2899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv2899&layout=compact&theme=tokyonight&hide_border=true)
+![Shivankush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv2899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv2899&layout=compact&theme=tokyonight&hide_border=true)
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv2899&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv2899&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -82,8 +82,8 @@ My projects span **climate analysis, spacecraft telemetry, exoplanet classificat
 
 I'm always glad to connect with people interested in **AI/ML, space science, climate data, and thoughtful experimentation.**
 
-- 💻 Browse my projects: [github.com/shiv2899](https://github.com/shiv2899)
-- 📊 Kaggle: [kaggle.com/shivankush2899](https://www.kaggle.com/shivankush2899)
+- 💻 Browse my projects: ![github.com/shiv2899](https://github.com/shiv2899)
+- 📊 Kaggle: ![kaggle.com/shivankush2899](https://www.kaggle.com/shivankush2899)
 
 ---
 
