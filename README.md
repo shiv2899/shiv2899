@@ -6,10 +6,10 @@
 
 **M.Tech CSE (AI & ML) • Python Developer • Curious about NASA Data**
 
-[[GitHub](https://img.shields.io/badge/GitHub-shiv2899-black?style=for-the-badge&logo=github)](https://github.com/shiv2899)
-[[Kaggle](https://img.shields.io/badge/Kaggle-shivankush2899-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/shivankush2899)
-[[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+![[GitHub](https://img.shields.io/badge/GitHub-shiv2899-black?style=for-the-badge&logo=github)](https://github.com/shiv2899)
+![[Kaggle](https://img.shields.io/badge/Kaggle-shivankush2899-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/shivankush2899)
+![[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 > *"You do not rise to the level of your goals. You fall to the level of your systems."*
 > — **James Clear, *Atomic Habits***
@@ -57,10 +57,10 @@ I care about the same thing in every project — **start with a baseline, evalua
 
 <div align="center">
 
-[Shivankush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv2899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv2899&layout=compact&theme=tokyonight&hide_border=true)
+![Shivankush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv2899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv2899&layout=compact&theme=tokyonight&hide_border=true)
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv2899&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv2899&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -70,8 +70,8 @@ I care about the same thing in every project — **start with a baseline, evalua
 
 I'm always glad to connect with people interested in **AI/ML, space science, climate data, and thoughtful experimentation.**
 
-- 💻 Browse my projects: [github.com/shiv2899](https://github.com/shiv2899)
-- 📊 Kaggle: [kaggle.com/shivankush2899](https://www.kaggle.com/shivankush2899)
+- 💻 Browse my projects: ![github.com/shiv2899](https://github.com/shiv2899)
+- 📊 Kaggle: ![kaggle.com/shivankush2899](https://www.kaggle.com/shivankush2899)
 
 ---
 
