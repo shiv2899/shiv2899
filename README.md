@@ -70,8 +70,8 @@ I care about the same thing in every project — **start with a baseline, evalua
 
 I'm always glad to connect with people interested in **AI/ML, space science, climate data, and thoughtful experimentation.**
 
-- 💻 Browse my projects: ![github.com/shiv2899](https://github.com/shiv2899)
-- 📊 Kaggle: ![kaggle.com/shivankush2899](https://www.kaggle.com/shivankush2899)
+- 💻 Browse my projects: [github.com/shiv2899](https://github.com/shiv2899)
+- 📊 Kaggle: [kaggle.com/shivankush2899](https://www.kaggle.com/shivankush2899)
 
 ---
 
