@@ -15,8 +15,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-[Browse my repositories on GitHub](https://github.com/shiv2899?tab=repositories)
+### 🔝 Featured Repositories
+- [spacecraft-anomaly-detection](https://github.com/shiv2899/spacecraft-anomaly-detection) — NASA spacecraft telemetry anomaly detection.
+- [heartbeat-classifier](https://github.com/shiv2899/heartbeat-classifier) — ECG heartbeat classification using a 1D-CNN.
+- [tiny-gpt-from-scratch](https://github.com/shiv2899/tiny-gpt-from-scratch) — Transformer-based GPT built from scratch.
+- [connect-four-ai](https://github.com/shiv2899/connect-four-ai) — Connect Four AI using self-play and Monte Carlo Tree Search.
 
 ---
 ![](https://komarev.com/ghpvc/?username=shiv2899&color=0e75b6&style=flat&label=Profile+views)
